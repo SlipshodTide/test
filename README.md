@@ -5,12 +5,6 @@
 ![Static Badge](https://img.shields.io/badge/HTML-blue)
 ![Static Badge](https://img.shields.io/badge/CSS-green)
 
-##Índice:
-
-*[]/(#)
-*[Descripción-del-proyecto]
-*
-(#Descripción-del-proyecto)
 
 <h2>Demostración de funciones y aplicaciones;
 Acceso al Proyecto;
